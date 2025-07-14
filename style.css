@@ -95,7 +95,7 @@
 
     .intro h1 span {
       display: block;
-      background: linear-gradient(135deg, #667eea, #764ba2);
+      background: linear-gradient(135deg, #667eea, #654ba2);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
